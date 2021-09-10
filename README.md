@@ -43,7 +43,7 @@ machine-Learning = 데이터를 이용해서 명시적으로 정의되지 않은
 인덱스를 이용하여 시리즈의 원소를 선택할 수 있다  
 정수형 인덱스는 대괄호 안에 숫자 입력(배열과 동일하게 0부터 시작)  
 인덱스 이름 은 대괄호 안에 이름과 함께 따옴표 입력(큰 따옴표 작은따옴표 모두 사용 가능)  
-![image](https://user-images.githubusercontent.com/75231868/132805350-7da763bb-2c56-4857-a1a7-6e653c26adc6.png)
+![image](https://user-images.githubusercontent.com/75231868/132805588-38b23be6-ed10-4b7e-aa5f-627504d621f2.png)
 ![image](https://user-images.githubusercontent.com/75231868/132805393-60f5d6c7-0559-4c3f-91c6-ac7c8d11ec52.png)
 
 
