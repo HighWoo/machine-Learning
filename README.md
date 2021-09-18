@@ -81,6 +81,45 @@ drop 메서드는 원본은 안사라진다 복제를 해야함
 ![image](https://user-images.githubusercontent.com/75231868/132808269-34f12165-4d27-4f1e-be91-621d6e80bbee.png)
 ![image](https://user-images.githubusercontent.com/75231868/132808282-a110a965-8e5e-4bd2-a402-f7c8eb891306.png)
 
+## 3주차(2021/09/18)  
+  
+데이터 프레임 행 선택  
+인덱서를 사용  
+iLoc : 위치인덱스  
+Loc : 인덱스 이름  
+  
+- 예제  
+![image](https://user-images.githubusercontent.com/75231868/133866938-1f4c4431-a83a-4423-82a9-b8699c884c17.png)
+
+- label1  
+![image](https://user-images.githubusercontent.com/75231868/133866594-8e3b70a7-b5ae-47bc-b03b-c8cf0d8e85a2.png)
+- position1  
+![image](https://user-images.githubusercontent.com/75231868/133866969-4f8dfb05-c11a-4f6b-b0d7-b5748f11fa86.png)  
+- position2  
+![image](https://user-images.githubusercontent.com/75231868/133867026-d7ca0db8-eb83-434d-a8f3-735d7a5411eb.png)
+- position3(범위값은 끝이 포함되지 않는다)  
+![image](https://user-images.githubusercontent.com/75231868/133867053-0beadad0-9a2f-4bc1-9bb3-1beb585a8fd5.png)
+- position3의 범위값을 0:2  
+![image](https://user-images.githubusercontent.com/75231868/133867084-ce6f19f0-05b4-4d04-b094-6fdf1b3d7e5b.png)
+  
+
+
+데이터 프레임 열 선택  
+방법1 [] 대괄호  
+방법2 도트+열이름(.+열이름)  
+![image](https://user-images.githubusercontent.com/75231868/133867218-df7f1105-9246-4b8c-ade4-69595c78bb30.png)  
+![image](https://user-images.githubusercontent.com/75231868/133867221-4ff3cc85-4fcc-449f-a117-9be88197a282.png)  
+
+df['수학'] 은 출력될때 열 이름이 나오지 않지만  
+df[['수학']] 은 출력할 때 열 이름이 나온다  
+  
+다중선택  
+
+![image](https://user-images.githubusercontent.com/75231868/133867350-8f6ff8f5-e736-4186-b763-f451bd53a734.png)
+![image](https://user-images.githubusercontent.com/75231868/133867360-aa2f9f37-1968-4fa9-b944-359857c8807f.png)
+
+
+
 
 
 
