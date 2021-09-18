@@ -159,7 +159,15 @@ df[['수학']] 은 출력할 때 열 이름이 나온다
 데이터프레임 행 인덱스 초기화  
 ![image](https://user-images.githubusercontent.com/75231868/133868551-d5571176-f5b5-457b-bce0-de45b6dc1a75.png)  
 
-데이터 프레임 
+데이터 프레임 행 인덱스를 기준으로 정렬  
+ascending 옵션이 True 이면 오름차순 False 이면 내림차순  
+![image](https://user-images.githubusercontent.com/75231868/133869058-8d4adf51-7de6-4c56-80cf-f51573057f13.png)
+![image](https://user-images.githubusercontent.com/75231868/133869066-e05d2aca-076b-4a36-9430-c345b1ee373f.png)
+
+데이터 프레임 데이터 값 기준으로 정렬  
+![image](https://user-images.githubusercontent.com/75231868/133869109-7b9b6b43-acd5-42c2-ad53-5dfa38c0407e.png)
+![image](https://user-images.githubusercontent.com/75231868/133869112-ac33b3ab-859d-4c75-a58b-c0689e44e3ec.png)
+
 
 
 
