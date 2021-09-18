@@ -116,13 +116,41 @@ Loc : 인덱스 이름
 df['수학'] 은 출력될때 열 이름이 나오지 않지만  
 df[['수학']] 은 출력할 때 열 이름이 나온다  
   
-다중선택  
+데이터 프레임 다중선택  
 
 ![image](https://user-images.githubusercontent.com/75231868/133867350-8f6ff8f5-e736-4186-b763-f451bd53a734.png)
 ![image](https://user-images.githubusercontent.com/75231868/133867360-aa2f9f37-1968-4fa9-b944-359857c8807f.png)
 
+데이터 프레임 원소선택  
+![image](https://user-images.githubusercontent.com/75231868/133867761-4a0c9f66-0ded-43da-8108-b878b6e597d2.png)
+![image](https://user-images.githubusercontent.com/75231868/133867764-b97bdc6e-f328-4953-b6d6-e92ac01cc7da.png)  
+  
+데이터 프레임 열 추가  
+하나의 값으로 동일하게  
+![image](https://user-images.githubusercontent.com/75231868/133867814-f6bdc9cb-91fc-46c8-8427-0dc87a96cf86.png)
+![image](https://user-images.githubusercontent.com/75231868/133867818-4d0fe074-3dd4-4911-be95-86d280a3ce6a.png)
 
+서로 다른 값으로  
+![image](https://user-images.githubusercontent.com/75231868/133867849-16f92241-1364-4fc8-bfc3-c47308a31c2b.png)
+![image](https://user-images.githubusercontent.com/75231868/133867851-707f4517-0c9e-4b52-bbd6-7b2bf829f99d.png)
 
+데이터 프레임 행 추가  
+![image](https://user-images.githubusercontent.com/75231868/133867920-6aa93993-fc34-45f0-9f6e-4d9a6367ae6d.png)
+![image](https://user-images.githubusercontent.com/75231868/133867923-d19fcf88-e1c8-44e7-be2d-59b375cb08e8.png)
+
+데이터프레임 원소 값 변경  
+![image](https://user-images.githubusercontent.com/75231868/133868084-3b710ff7-4762-4fa1-88c5-2df63587ad79.png)
+![image](https://user-images.githubusercontent.com/75231868/133868090-4589c241-240b-415f-b00f-327824329022.png)
+
+데이터 프레임 행 열의 위치 바꾸기  
+![image](https://user-images.githubusercontent.com/75231868/133868252-7ed96095-442e-4c54-86b1-2f24f5a6a68c.png)
+![image](https://user-images.githubusercontent.com/75231868/133868257-a77d2929-4323-4879-9bdb-3e5ef394cf7a.png)
+  
+데이터프레임 특정 열을 행 인덱스로 설정  
+![image](https://user-images.githubusercontent.com/75231868/133868296-9aa5356e-d809-46ef-8fe0-327097a9e28d.png)
+  
+![image](https://user-images.githubusercontent.com/75231868/133868371-efbafbbb-a7c0-49b8-853d-466fed09906d.png)
+![image](https://user-images.githubusercontent.com/75231868/133868372-27af0dd3-31cb-4a0b-83e2-bde71fcd4a11.png)
 
 
 
