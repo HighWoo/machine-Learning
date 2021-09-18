@@ -151,9 +151,15 @@ df[['수학']] 은 출력할 때 열 이름이 나온다
   
 ![image](https://user-images.githubusercontent.com/75231868/133868371-efbafbbb-a7c0-49b8-853d-466fed09906d.png)
 ![image](https://user-images.githubusercontent.com/75231868/133868372-27af0dd3-31cb-4a0b-83e2-bde71fcd4a11.png)
+  
+데이터프레임 행 인덱스 재배열  
+![image](https://user-images.githubusercontent.com/75231868/133868522-fa6011c2-8e3f-4c01-b072-36ff3af9ad21.png)
+![image](https://user-images.githubusercontent.com/75231868/133868524-11db2bff-711a-4981-bf1e-8edc86a806d4.png)
+  
+데이터프레임 행 인덱스 초기화  
+![image](https://user-images.githubusercontent.com/75231868/133868551-d5571176-f5b5-457b-bce0-de45b6dc1a75.png)  
 
-
-
+데이터 프레임 
 
 
 
