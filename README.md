@@ -129,7 +129,8 @@ df[['수학']] 은 출력할 때 열 이름이 나온다
 하나의 값으로 동일하게  
 ![image](https://user-images.githubusercontent.com/75231868/133867814-f6bdc9cb-91fc-46c8-8427-0dc87a96cf86.png)
 ![image](https://user-images.githubusercontent.com/75231868/133867818-4d0fe074-3dd4-4911-be95-86d280a3ce6a.png)
-
+  
+데이터 프레임 열 추가  
 서로 다른 값으로  
 ![image](https://user-images.githubusercontent.com/75231868/133867849-16f92241-1364-4fc8-bfc3-c47308a31c2b.png)
 ![image](https://user-images.githubusercontent.com/75231868/133867851-707f4517-0c9e-4b52-bbd6-7b2bf829f99d.png)
