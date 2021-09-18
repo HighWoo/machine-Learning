@@ -82,6 +82,9 @@ drop 메서드는 원본은 안사라진다 복제를 해야함
 ![image](https://user-images.githubusercontent.com/75231868/132808282-a110a965-8e5e-4bd2-a402-f7c8eb891306.png)
 
 ## 3주차(2021/09/18)  
+데이터 프레임 원소 선택  
+![image](https://user-images.githubusercontent.com/75231868/133867397-2b0a6a89-af65-41a7-96f3-58aba826aea7.png)
+  
   
 데이터 프레임 행 선택  
 인덱서를 사용  
