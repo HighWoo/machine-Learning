@@ -171,5 +171,39 @@ ascending 옵션이 True 이면 오름차순 False 이면 내림차순
 
 
 <hr>
+## 4주차(2021/09/25)  
+### 산술연산  
+시리즈와 숫자의 연산  
+![image](https://user-images.githubusercontent.com/75231868/134769636-ca4875d1-5af5-4063-a839-8c0e05a9217d.png)  
+![image](https://user-images.githubusercontent.com/75231868/134769744-3158915b-e6a4-442b-b166-c96e8a4fe102.png)![image](https://user-images.githubusercontent.com/75231868/134769746-8068ea4f-99ab-4c3f-aba8-4160f93a4b4c.png)  
+
+시리즈와 시리즈의 연산  
+시리즈의 순서가 아닌 인덱스 값으로 계산한다(수학은 수학 영어는 영어)  
+![image](https://user-images.githubusercontent.com/75231868/134769833-82d94803-2efc-4b3f-9e6f-e52b982a4bfb.png)![image](https://user-images.githubusercontent.com/75231868/134769837-0c1e18a7-3025-4ba4-b8d2-0a5972df23eb.png)  
+![image](https://user-images.githubusercontent.com/75231868/134769988-814a9eb3-62b2-419c-91de-9ba05e3dbdb0.png)  
+
+데이터프레임과 숫자의 연산  
+![image](https://user-images.githubusercontent.com/75231868/134770224-0d7b3fc1-d9eb-4f07-9e66-1adb90a93cf8.png)  
+![image](https://user-images.githubusercontent.com/75231868/134770444-d671ff77-b23f-442f-a0f3-95264d94fdb8.png)![image](https://user-images.githubusercontent.com/75231868/134770452-4ae623c0-1012-4dc8-90b4-64fd5adac849.png)
+
+데이터프레임과 데이터프레임의 연산  
+![image](https://user-images.githubusercontent.com/75231868/134770548-fd85be16-f1d6-4b38-ad8c-e60961eef9c9.png)![image](https://user-images.githubusercontent.com/75231868/134770554-3866c35f-cb03-428f-917e-46817601de2b.png)  
+
+### 외부파일 읽기  
+CSV파일  
+![image](https://user-images.githubusercontent.com/75231868/134770994-5eebef20-8809-4d4d-bb3d-d787363ef6f2.png)  
+![image](https://user-images.githubusercontent.com/75231868/134771009-19cb7d44-71f6-4d37-a127-53aeb8e89928.png)![image](https://user-images.githubusercontent.com/75231868/134771016-70272ed7-19b1-4c8f-9420-2b6c06dbec0e.png)
+
+Excel 파일  
+![image](https://user-images.githubusercontent.com/75231868/134771033-899dd533-de12-4bf5-8c4d-97ff5a3dc11b.png)
+![image](https://user-images.githubusercontent.com/75231868/134771068-65713daf-fe87-4419-ae9e-b3dd4af9d10b.png)![image](https://user-images.githubusercontent.com/75231868/134771070-414185ab-91e4-4812-a7e7-94f86e69e860.png)
+
+웹파일  
+![image](https://user-images.githubusercontent.com/75231868/134771121-03c7082b-4395-4a3c-8200-45c0c3b57d40.png)
+![image](https://user-images.githubusercontent.com/75231868/134771129-c44e961a-5fd3-4695-a5bc-56a3bbf8e634.png)
+
+
+
+
 
 
