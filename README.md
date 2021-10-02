@@ -203,7 +203,12 @@ Excel 파일
 ![image](https://user-images.githubusercontent.com/75231868/134771129-c44e961a-5fd3-4695-a5bc-56a3bbf8e634.png)
 
 
+## 4주차(2021/10/02)  
 
+### CSV파일로 저장  
+to_csv() 메서드 사용  
+### 여러개의 데이터 프레임을 excel 파일로 저장  
+ExcelWriter() 메서드 사용  
 
 
 
